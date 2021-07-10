@@ -29,4 +29,5 @@ About me:
 ![Python](https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=FFFFFF) ![Golang](https://img.shields.io/badge/-Golang-white?&logo=go)
 
 <hr>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-lopes/)](https://www.linkedin.com/in/danilo-lopes/)
