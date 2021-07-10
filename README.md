@@ -30,4 +30,4 @@ About me:
 
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-lopes/)](https://www.linkedin.com/in/danilo-lopes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-lopes/)](https://www.linkedin.com/in/danilolopes/)
