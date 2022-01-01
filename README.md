@@ -6,7 +6,7 @@
 
 About me:
 
-- 🇧🇷 Brazil, **São Bernardo do Campo**.
+- Brazil, **São Bernardo do Campo**.
 
 - 🔨 I’m currently working with **AWS** and **Kubernetes**.
 
